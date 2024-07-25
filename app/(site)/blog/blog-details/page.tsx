@@ -80,7 +80,7 @@ const SingleBlogPage = async () => {
                   <div className="relative aspect-[97/60] w-full sm:aspect-[97/44]">
                     <Image
                       src={"/images/blog/blog-01.png"}
-                      alt="Kobe Steel plant that supplied"
+                      alt="Transforming Ideas into Reality with Socio"
                       fill
                       className="rounded-md object-cover object-center"
                     />
@@ -88,49 +88,41 @@ const SingleBlogPage = async () => {
                 </div>
 
                 <h2 className="mb-5 mt-11 text-3xl font-semibold text-black dark:text-white 2xl:text-sectiontitle2">
-                  Kobe Steel plant that supplied
+                  Transforming Ideas into Reality with Socio
                 </h2>
 
                 <ul className="mb-9 flex flex-wrap gap-5 2xl:gap-7.5">
                   <li>
                     <span className="text-black dark:text-white">Author: </span>{" "}
-                    Jhon Doe
+                    Socio Team
                   </li>
                   <li>
                     <span className="text-black dark:text-white">
-                      Published On: July 30, 2023
+                      Published On: July 22, 2024
                     </span>{" "}
                   </li>
                   <li>
                     <span className="text-black dark:text-white">
                       Category:
                     </span>
-                    Events
+                    Digital Agency
                   </li>
                 </ul>
 
                 <div className="blog-details">
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    Nunc quis nibh lorem. Duis sed odio lorem. In a efficitur
-                    leo. Ut venenatis rhoncus quam sed condimentum. Curabitur
-                    vel turpis in dolor volutpat imperdiet in ut mi. Integer non
-                    volutpat nulla. Nunc elementum elit viverra, tempus quam
-                    non, interdum ipsum.
+                    In today’s fast-paced digital world, having a strong online presence is more important than ever. Whether you're a small business owner, an entrepreneur, or a large corporation, the way you present yourself online can make all the difference. This is where Socio comes in. Socio is a digital agency dedicated to bringing your ideas to life through top-notch IT services.
                   </p>
 
+                  <h3 className="pt-8">
+                    What is Socio?
+                  </h3>
+                  
                   <p>
-                    Aenean augue ex, condimentum vel metus vitae, aliquam porta
-                    elit. Quisque non metus ac orci mollis posuere. Mauris vel
-                    ipsum a diam interdum ultricies sed vitae neque. Nulla
-                    porttitor quam vitae pulvinar placerat. Nulla fringilla elit
-                    sit amet justo feugiat sodales. Morbi eleifend, enim non
-                    eleifend laoreet, odio libero lobortis lectus, non porttitor
-                    sem urna sit amet metus. In sollicitudin quam est,
-                    pellentesque consectetur felis fermentum vitae.
+                   Socio is a one-stop-shop for all your digital needs. We specialize in web development, app development, social media marketing, logo design, and brand identity. Our mission is to provide our customers with the best IT services possible, delivering a "Wow" factor in every project we undertake. Our vision is to be the top IT service provider internationally.
                   </p>
 
-                  <div className="flex flex-wrap gap-5">
+                  {/* <div className="flex flex-wrap gap-5">
                     <Image
                       src={"/images/blog/blog-01.png"}
                       width={350}
@@ -143,20 +135,62 @@ const SingleBlogPage = async () => {
                       height={200}
                       alt="image"
                     />
-                  </div>
+                  </div> */}
 
                   <h3 className="pt-8">
-                    Nunc elementum elit viverra, tempus quam non
+                  Why Choose Socio?
                   </h3>
 
+                  <ol> 1. Expertise in Multiple Areas:
+                    <li><b>Web Development: </b>We create stunning, user-friendly websites that are not only visually appealing but also functional and responsive. Your website will look great on any device, from desktops to smartphones.</li>
+                    <li><b>App Development: </b>We develop mobile applications that are both intuitive and powerful. Whether you need an app for iOS, Android, or both, we've got you covered.</li>
+                    <li><b>Social Media Marketing: </b>Our team knows how to make your brand shine on social media. We create engaging content and manage your social media profiles to help you connect with your audience and grow your following.</li>
+                    <li><b>Logo Design and Brand Identity: </b>Your brand’s identity is crucial. We design logos and create brand identities that reflect your values and make you stand out in the crowded marketplace.</li>
+                  </ol>
+
+                  <ol> 2. Customer-Centric Approach 
+                    <p>At Socio, our customers are at the heart of everything we do. We listen to your ideas, understand your goals, and work closely with you to create solutions that meet your needs. We believe in building long-term relationships with our clients based on trust and mutual respect.</p>
+                  </ol>
+
+                  <ol> 3. Innovative Solutions 
+                    <p>Our portfolio is filled with successful projects across various industries. From small businesses to large enterprises, we've helped many clients achieve their digital goals. Our testimonials speak for themselves, with clients praising our professionalism, creativity, and dedication.</p>
+                  </ol>
+
+                  <ol> 4. Proven Track Record
+                    <p>We stay ahead of the curve by constantly exploring new technologies and trends. This allows us to provide innovative solutions that help our clients stay competitive in their industries.</p>
+                  </ol>
+
+                  <h3>How Socio Brings Ideas to Life</h3>
+
+                  <p>Every project at Socio starts with a simple idea. Our team of experts works tirelessly to transform that idea into a reality. Here’s how we do it:</p>
+                  
+                  <ol>2. Planning:: 
+                  <p>Once we have a clear understanding of your goals, we create a detailed plan outlining the steps needed to achieve them. This includes timelines, milestones, and deliverables.</p>
+                  </ol>
+                  
+                  <ol>1. Consultation: 
+                  <p>We begin by understanding your needs and objectives. We listen to your ideas and offer insights based on our experience and expertise.</p>
+                  </ol>
+
+                  <ol>3. Execution:: 
+                  <p>Our talented team of designers, developers, and marketers get to work. We keep you informed at every stage of the project, ensuring that everything is on track and meets your expectations.</p>
+                  </ol>
+                  
+                  <ol>4. Launch:: 
+                  <p>After rigorous testing and quality assurance, we launch your project. But our job doesn’t end there. We provide ongoing support to ensure your continued success.</p>
+                  </ol>
+                  
+                  <ol>5. Evaluation:: 
+                  <p>We believe in continuous improvement. After the launch, we evaluate the project’s performance and gather feedback to make any necessary adjustments.</p>
+                  </ol>
+
+                  <h3>Conclusion</h3>
+
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    Nunc quis nibh lorem. Duis sed odio lorem. In a efficitur
-                    leo. Ut venenatis rhoncus quam sed condimentum. Curabitur
-                    vel turpis in dolor volutpat imperdiet in ut mi. Integer non
-                    volutpat nulla. Nunc elementum elit viverra, tempus quam
-                    non, interdum ipsum.
+                  In a digital world, having a reliable partner like Socio can make all the difference. We are committed to helping you succeed by providing top-quality digital solutions tailored to your needs. Whether you need a new website, a mobile app, or a comprehensive social media strategy, Socio is here to help. Let's bring your ideas to life!
                   </p>
+
+                  <p>For more information, visit our website or contact us today. Let’s get started on your digital journey!</p>
                 </div>
 
                 <SharePost />

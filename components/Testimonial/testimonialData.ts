@@ -5,34 +5,34 @@ import { Testimonial } from "@/types/testimonial";
 export const testimonialData: Testimonial[] = [
   {
     id: 1,
-    name: "Devid Smith",
-    designation: "Founter @democompany",
+    name: "Sarah Lee",
+    designation: "Founter @GreenLeaf Ventures",
     image: image1,
     content:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris hendrerit, ligula sit amet cursus tincidunt, lorem sem elementum nisi, convallis fringilla ante nibh non urna.",
+      "Socio was fantastic to work with. Their expertise in web development and social media marketing made a huge difference for our business. We couldn't be happier with the results",
   },
   {
     id: 2,
-    name: "Jhon Abraham",
-    designation: "Founter @democompany",
+    name: "Jane Smith",
+    designation: "CEO @Acme Corp",
     image: image2,
     content:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris hendrerit, ligula sit amet cursus tincidunt, lorem sem elementum nisi, convallis fringilla ante nibh non urna.",
+      "Socio delivered exactly what we needed! Their team was efficient and creative, helping us enhance our brand identity. We're thrilled with the results.",
   },
   {
     id: 3,
-    name: "Devid Smith",
-    designation: "Founter @democompany",
+    name: "Mike Johnson",
+    designation: "Founter @FreshStart Inc.",
     image: image1,
     content:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris hendrerit, ligula sit amet cursus tincidunt, lorem sem elementum nisi, convallis fringilla ante nibh non urna.",
+      "Working with Socio was a game-changer for us. They revamped our online presence and provided excellent social media marketing. Great job, Socio!",
   },
   {
     id: 4,
-    name: "Jhon Abraham",
-    designation: "Founter @democompany",
+    name: "Emily Brown",
+    designation: "Operations Director @BrightFuture Solutions",
     image: image2,
     content:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris hendrerit, ligula sit amet cursus tincidunt, lorem sem elementum nisi, convallis fringilla ante nibh non urna.",
+      "Socio's services are top-notch. They developed a stunning website and managed our social media effortlessly. We highly recommend their team.",
   },
 ];

@@ -4,9 +4,9 @@ const BlogData: Blog[] = [
   {
     _id: 1,
     mainImage: "/images/blog/blog-01.png",
-    title: "Free advertising for your online business",
+    title: "Transforming Ideas into Reality with Socio",
     metadata:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit convallis tortor.",
+      "Socio, a top digital agency, specializes in web and app development, social media marketing, and brand identity. We bring your ideas to life with innovative solutions and a customer-focused approach. From consultation to launch and support, Socio delivers high-quality digital services to help your business thrive online.",
   },
   {
     _id: 2,
